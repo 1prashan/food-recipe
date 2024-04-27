@@ -6,5 +6,15 @@
 .container{
     width:100vw;
     height:100vh;
+    padding:3px;
+    overflow: hidden;
     
+}
+.navItem{
+    width:100vw;
+    height:200px;
+    background-color: #5086de;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 3px 13px 4px 12px solid rgba(176, 93, 93, 0.751);
 }
